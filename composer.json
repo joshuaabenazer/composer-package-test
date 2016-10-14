@@ -1,0 +1,13 @@
+{
+    "name": "joshuabangera/composer-package-test",
+    "description": "Testing an alternative to installing libraries not present on packagist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua Abenazer",
+            "email": "joshua.bangera@gmail.com"
+        }
+    ],
+    "require": {}
+}
